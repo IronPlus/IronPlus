@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IronPlus&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IronPlus&langs_count=10&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IronPlus)](https://github.com/IronPlus/github-readme-stats)
