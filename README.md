@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IronPlus&count_private=true&theme=tokyonight&showicons=true)]() <br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IronPlus&theme=gruvbox&hide_border=false)
 
-#### ✍️ Dev Quote of the day
+#### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
